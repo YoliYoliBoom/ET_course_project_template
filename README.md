@@ -1,4 +1,4 @@
-# **Course project** Title
+# **Course project:** Title
 **Authors:** *Author 1*, *Author 2* & *Author 3*
 
 **Course:** *Acquisition and analysis of eye-tracking data*
