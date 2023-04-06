@@ -39,7 +39,7 @@
 │                       structures and modules that are used throughout
 │                       the project and in multiple scripts.
 │
-├── experiment       <- OpenSesame file to run the experiment; where applicable also stimuli, randomizatio
+├── experiment       <- OpenSesame file to run the experiment; where applicable also stimuli, randomization
 |
 ├── data             <- **If they have a reasonable file size**
 |   ├── raw          <- Raw eye-tracking data
@@ -51,6 +51,6 @@
 ├── .gitignore       <- List of files that you don’t want Git to automatically add
 |                       (default Python .gitignore was used)
 │
-└── (Requirements.txt)<- List of modules and packages that are used for your project
+└── (requirements.txt)<- List of modules and packages that are used for your project
                         
 ```
