@@ -39,7 +39,7 @@
 │                       structures and modules that are used throughout
 │                       the project and in multiple scripts.
 │
-├── experiment       <- Scripts to run the experiment; where applicable also stimuli
+├── experiment       <- OpenSesame file to run the experiment; where applicable also stimuli, randomizatio
 |
 ├── data             <- **If they have a reasonable file size**
 |   ├── raw          <- Raw eye-tracking data
