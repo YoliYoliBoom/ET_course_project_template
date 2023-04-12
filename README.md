@@ -52,5 +52,7 @@
 |                       (default Python .gitignore was used)
 │
 └── (requirements.txt)<- List of modules and packages that are used for your project
-                        
+                     
 ```
+## Note on sharing your recorded data
+If your data is <1GB you can add it to the data folder in your Git repository. Otherwise, we recommend to use figshare (https://figshare.com/) and share the resulting link in your Git repository.
