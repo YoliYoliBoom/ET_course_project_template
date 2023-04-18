@@ -55,4 +55,4 @@
                      
 ```
 ## Note on sharing your recorded data
-If your data is <1GB you can add it to the data folder in your Git repository. Otherwise, we recommend to use figshare (https://figshare.com/) and share the resulting link in your Git repository.
+If your data is <1GB you can add it to the data folder in your Git repository. Otherwise, only include it in the project package that you submit on Ilias at the end of the term.
