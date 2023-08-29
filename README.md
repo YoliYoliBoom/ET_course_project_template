@@ -1,12 +1,13 @@
-# **Course project:** Title
-**Authors:** *Author 1*, *Author 2* & *Author 3*
+# **Course project:** Light versus Dark: Interactive effects of backgrounds and cues in visual search
+
+**Authors:** *Candy Adusei*, *Sanjana Scaria Mannanal*,*Erisa Hoxha* & *Chenyue Zhou*
 
 **Course:** *Acquisition and analysis of eye-tracking data*
 
 **Semester:** *Summer semester 2023*
 
 ## Project Description
-> Please provide a short description of the main goals. 
+This project is a reproduction with extension of Kugler et al.'s experiment. The main goal of the study is to explore the interaction between background colors (especially in dark-themed interfaces) and cue types, and to determine their combined effect on the speed, accuracy, and efficiency of visual search. This research provides valuable insights for UI and UX design professionals.
 
 ## Instruction for a new student
 >If a fellow student wants to reproduce all your results. What scripts, in which order, with which data need to be run?
